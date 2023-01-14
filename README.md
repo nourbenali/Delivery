@@ -11,4 +11,5 @@ In order to create this project, the Python libraries used are :
  
 The goal of this project is to create a Data Warehouse in order to create dashboards that help decision-making for the dataset "Delivery".
 
-
+Warning: 
+For any exception created while using Atoti, the user needs a start new sessio with a different name for usage.
